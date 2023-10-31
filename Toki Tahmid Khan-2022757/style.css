@@ -1,0 +1,101 @@
+
+*{
+    margin: 0;
+    padding: 0; 
+}
+body
+{
+
+width:100%;
+}
+.logo-iub{
+    width: 16%;
+    margin-top: 15px;
+  
+}
+.title-logo{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+#main-sec{
+    margin: auto;
+    width: 50%;
+    margin-top: 100px;
+   
+    background-color: rgb(226, 231, 235);
+    padding: 30px;
+    border: 5px solid rgb(118, 107, 107);
+    border-radius: 5px;
+    margin-bottom: 20px;
+   
+}
+.ins-iub{
+margin: 10px 0 10px 0;
+}
+
+.ins-iub ol li{
+    font-weight: bold;
+}
+.ins-iub  p span{
+    text-decoration: underline;
+    color: rgb(38, 14, 255);
+}
+.crs-con  ol li{
+    font-weight: bold;
+
+}
+.crs-obj ol li{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.cou-bold{
+    
+    font-weight: bold;
+}
+.list-two{
+    margin-left: 29px;
+    margin-top: 5px;
+}
+.plo-po ol li{
+    font-weight: bold;
+    margin: 20px 0 20px 0;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+  }
+  
+  td {
+    text-align: center;
+    border: 1px solid black;
+    padding: 5px;
+  }
+  .cos ol li{
+    font-weight: bold;
+    margin: 20px 0 20px 0;
+}
+.nm-six{
+    font-weight: bold;
+}
+.list-six{
+margin-left: 30px;
+margin-bottom: 15px;
+}
+.small-pera{
+    font-size: 10px;
+    margin-top: 10px;
+    
+}
+.list-nine{
+    margin-left: 30px;
+}
+.nine{
+    margin-top: 20px;
+}
+.ten-list{
+    margin-left: 30px;
+    margin-top: 5px;
+}
